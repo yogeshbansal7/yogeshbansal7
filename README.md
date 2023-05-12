@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Software Developer with a deep love for creating innovative solutions and pushing the boundaries of technology.
+𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐰𝐢𝐭𝐡 𝐚 𝐝𝐞𝐞𝐩 𝐥𝐨𝐯𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐯𝐞 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐩𝐮𝐬𝐡𝐢𝐧𝐠 𝐭𝐡𝐞 𝐛𝐨𝐮𝐧𝐝𝐚𝐫𝐢𝐞𝐬 𝐨𝐟 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.
 
 
 ## 🌐 Socials:
